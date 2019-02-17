@@ -11,7 +11,9 @@ java -cp coding-challenge-1.0.2.jar com.creditsuisse.CSCodingChallengeApplicatio
 --inputFilePath="D:\\dis.txt" 
 -Dlogging.level.com.creditsuisse=debug
 -Dspring.profiles.active=h2
+
 #H2 Db : http://localhost:8080/h2-console/
+
 #NOTE
 Since lombok utilities are been used in this project, you may face issues running with command line and IDE would be best option.
 
