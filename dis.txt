@@ -1,0 +1,6 @@
+{"id":"abcdef","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495217"}
+{"id":"abcdef","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495212"}
+{"id":"abcdefg","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495213"}
+{"id":"abcdefg","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495220"}
+{"id":"abcdefgh","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495213"}
+{"id":"abcdefgh","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"1491377495214"}
